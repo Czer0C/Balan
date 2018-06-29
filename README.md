@@ -7,7 +7,8 @@
 - **Biểu thức trung tố**: Toán tử nằm giữa 2 toán hạng. VD: x + y
 - **Biểu thức hậu tố**: Toán tử nằm sau 2 toán hạng. VD: x y +
 - Trong bài viết này mỗi thành phần riêng lẻ trong biểu thức được gọi là *Token*. Như trong ví dụ
-trên thì (, 5, +, 8, ), *, 12, +, 11… là các Token.
+trên thì (, 5, +, 8, ), \*, 12, +, 11… là các Token.
+- Sử dụng tham số dòng lệnh.
 
 ### Cách tính giá trị biểu thức:
 - **Bước 1**: Chuyển biểu thức từ dạng trung sang dạng hậu tố.
